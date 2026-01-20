@@ -23,9 +23,3 @@ The analysis explores:
 - Window functions (`SUM() OVER (PARTITION BY ...)`)
 - View creation for analytical reuse
 
-## Files
-- `SQL_Analyzing.sql`: SQL queries used for the analysis
-
-## Notes
-- The dataset structure is assumed to include COVID-19 death and vaccination tables.
-- Queries are written for analytical clarity and reproducibility rather than transactional use.
